@@ -1,6 +1,6 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://jcabrera-ucu.github.io/ia-portafolios/'
 languageCode = 'en-us'
-title = 'My website'
+title = 'Portafolios IA'
 theme = 'typo'
 
 [taxonomies]
@@ -11,7 +11,7 @@ googleAnalytics = "G-xxxxxxxxx"
 
 [params]
 # Meta description
-description = "A Tech Blog"
+description = "Portafolios IA"
 
 # Appearance settings
 theme = 'auto'
@@ -38,22 +38,22 @@ listDateFormat = '2 Jan 2006'
 breadcrumbs = true
 
 # Social icons
-[[params.social]]
-name = "linkedin"
-url = "https://www.linkedin.com/in/user/"
-
-[[params.social]]
-name = "medium"
-url = "https://medium.com/@user"
+# [[params.social]]
+# name = "linkedin"
+# url = "https://www.linkedin.com/in/user/"
+# 
+# [[params.social]]
+# name = "medium"
+# url = "https://medium.com/@user"
 
 [[params.social]]
 name = "github"
-url = "https://github.com/user"
+url = "https://github.com/jcabrera-ucu"
 
 # Main menu pages
 [[params.menu]]
 name = "home"
-url = "/"
+url = "/ia-portafolios"
 
 [[params.menu]]
 name = "posts"
