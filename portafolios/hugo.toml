@@ -19,11 +19,11 @@ colorPalette = 'default'
 hideHeader = false
 
 # Intro on main page, content is markdown
-homeIntroTitle = 'Hi!'
-homeIntroContent = """
-I am an Italian Software Engineer with a strong foundation in computer science and a passion for solving complex problems.
-I am interested in a range of topics, including algorithms, distributed systems, databases, and information retrieval.
-"""
+# homeIntroTitle = 'Hi!'
+# homeIntroContent = """
+# I am an Italian Software Engineer with a strong foundation in computer science and a passion for solving complex problems.
+# I am interested in a range of topics, including algorithms, distributed systems, databases, and information retrieval.
+# """
 
 # Collection to display on home
 homeCollectionTitle = 'Posts'
@@ -53,15 +53,15 @@ url = "https://github.com/jcabrera-ucu"
 # Main menu pages
 [[params.menu]]
 name = "home"
-url = ""
+url = "/ia-portafolios"
 
 [[params.menu]]
 name = "posts"
-url = "posts"
+url = "/ia-portafolios/posts"
 
-[[params.menu]]
-name = "about"
-url = "about"
+# [[params.menu]]
+# name = "about"
+# url = "/ia-portafolios/about"
 
 # Syntax highligth on code blocks
 [markup]
