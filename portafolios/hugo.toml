@@ -53,7 +53,7 @@ url = "https://github.com/jcabrera-ucu"
 # Main menu pages
 [[params.menu]]
 name = "home"
-url = "/ia-portafolios"
+url = "/"
 
 [[params.menu]]
 name = "posts"
